@@ -17,7 +17,7 @@ int main (void)
         case 'A':
             val = 11;
             break;
-        default:
+        default:                                
             val = atoi(card_name);
     }
     /* check if the value is 3 to 6 */

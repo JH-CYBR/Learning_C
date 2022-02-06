@@ -1,0 +1,3 @@
+/Users/johnhennagir/Desktop/headfirstintoc/c_udemy_course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/johnhennagir/Desktop/headfirstintoc/c_udemy_course/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johnhennagir/Desktop/headfirstintoc/c_udemy_course/cmake-build-debug/CMakeFiles/c_udemy_course.dir

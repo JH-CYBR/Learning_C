@@ -3,4 +3,4 @@ project(c_udemy_course C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(c_udemy_course main.c)
+add_executable(c_udemy_course main.c command_line_arguments.c)

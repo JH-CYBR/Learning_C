@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug"
+			"value" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args"
+			"value" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug"
+			"value" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug"
 		},
 		{
 			"name" : "command_line_args_IS_TOP_LEVEL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args"
+			"value" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args"
 		}
 	],
 	"kind" : "cache",

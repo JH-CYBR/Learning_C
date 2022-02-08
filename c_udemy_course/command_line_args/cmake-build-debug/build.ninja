@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug/
+cmake_ninja_workdir = /Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/johnhennagir/Desktop/headfirstintoc/command_line_args -B/Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug
+  COMMAND = cd /Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args -B/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -72,7 +72,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_command_line_args: phony || CMakeFiles/command_line_args.dir
 
-build CMakeFiles/command_line_args.dir/main.c.o: C_COMPILER__command_line_args_Debug /Users/johnhennagir/Desktop/headfirstintoc/command_line_args/main.c || cmake_object_order_depends_target_command_line_args
+build CMakeFiles/command_line_args.dir/main.c.o: C_COMPILER__command_line_args_Debug /Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/main.c || cmake_object_order_depends_target_command_line_args
   DEP_FILE = CMakeFiles/command_line_args.dir/main.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu2x
   OBJECT_DIR = CMakeFiles/command_line_args.dir
@@ -106,7 +106,7 @@ build command_line_args: C_EXECUTABLE_LINKER__command_line_args_Debug CMakeFiles
 # =============================================================================
 
 #############################################
-# Folder: /Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug
+# Folder: /Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug
 
 build all: phony command_line_args
 

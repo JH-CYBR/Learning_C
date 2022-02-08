@@ -605,8 +605,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args/cmake-build-debug",
-		"source" : "/Users/johnhennagir/Desktop/headfirstintoc/command_line_args"
+		"build" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug",
+		"source" : "/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args"
 	},
 	"version" : 
 	{

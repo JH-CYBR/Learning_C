@@ -1,5 +1,5 @@
 # ninja log v5
-0	86	1644355251340926622	CMakeFiles/command_line_args.dir/main.c.o	13024dd79d0ec86e
-87	174	1644355251430284044	command_line_args	dd276fc5150956cc
 0	96	1644355394908174823	CMakeFiles/command_line_args.dir/main.c.o	13024dd79d0ec86e
 96	189	1644355395003932038	command_line_args	dd276fc5150956cc
+0	88	1644356632310858956	CMakeFiles/command_line_args.dir/main.c.o	3fbefb8b4de1b4aa
+88	196	1644356632419997398	command_line_args	dd276fc5150956cc

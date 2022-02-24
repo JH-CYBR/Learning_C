@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.21)
-project(c_udemy_course C)
-
-set(CMAKE_C_STANDARD 23)
-
-add_executable(c_udemy_course main.c command_line_arguments.c)

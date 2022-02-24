@@ -1,3 +1,0 @@
-/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/johnhennagir/Desktop/Beginning_C/c_udemy_course/command_line_args/cmake-build-debug/CMakeFiles/command_line_args.dir

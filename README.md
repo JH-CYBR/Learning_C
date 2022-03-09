@@ -1,3 +1,0 @@
-# headfirstintoc
-learning c 
-test

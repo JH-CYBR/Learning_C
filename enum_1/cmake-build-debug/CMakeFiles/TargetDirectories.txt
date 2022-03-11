@@ -1,3 +1,0 @@
-C:/Users/Johnh/Desktop/Learning_C/enum_1/cmake-build-debug/CMakeFiles/enum_1.dir
-C:/Users/Johnh/Desktop/Learning_C/enum_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Johnh/Desktop/Learning_C/enum_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

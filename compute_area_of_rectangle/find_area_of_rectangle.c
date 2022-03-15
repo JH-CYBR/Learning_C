@@ -3,22 +3,21 @@
 int main ()
 
 {
-    int height;
-    int base;
+    double width;
+    double height;
+    double perimeter;
+    double area;
+
+    printf("Please enter the width:");
+    scanf("%lf", &width);
     
-    printf("enter the triangle's height:");
-    scanf("%d", &height);
+    printf("Please enter the height:");
+    scanf("%lf", &height);
 
-    printf("enter the triangle's width:");
-    scanf("%d", &base);
+    perimeter = (width + height) * 2;
+    area = width * height;
 
-    printf("The Area is:%d\n", height * base / 2);    
+    printf("The perimeter is: %lf\n", perimeter);
+    printf("The area is: %lf\n", area);
     return 0;
-
-
-
-
-
-
-
 }
